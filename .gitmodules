@@ -1,0 +1,171 @@
+[submodule "batchImg-rembg-ComfyUI-nodes"]
+	path = batchImg-rembg-ComfyUI-nodes
+	url = https://github.com/Mamaaaamooooo/batchImg-rembg-ComfyUI-nodes
+[submodule "cg-use-everywhere"]
+	path = cg-use-everywhere
+	url = https://github.com/chrisgoringe/cg-use-everywhere
+[submodule "ComfyUI_Comfyroll_CustomNodes"]
+	path = ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+[submodule "comfyui_controlnet_aux"]
+	path = comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux
+[submodule "ComfyUI_essentials"]
+	path = ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials
+[submodule "ComfyUI_ExtraModels"]
+	path = ComfyUI_ExtraModels
+	url = https://github.com/city96/ComfyUI_ExtraModels
+[submodule "ComfyUI_IPAdapter_plus"]
+	path = ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus
+[submodule "comfyui_LLM_party"]
+	path = comfyui_LLM_party
+	url = https://github.com/heshengtao/comfyui_LLM_party
+[submodule "ComfyUI_MaraScott_Nodes"]
+	path = ComfyUI_MaraScott_Nodes
+	url = https://github.com/MaraScott/ComfyUI_MaraScott_Nodes
+[submodule "ComfyUI_Noise"]
+	path = ComfyUI_Noise
+	url = https://github.com/BlenderNeko/ComfyUI_Noise
+[submodule "comfyui_segment_anything"]
+	path = comfyui_segment_anything
+	url = https://github.com/storyicon/comfyui_segment_anything
+[submodule "ComfyUI-Advanced-ControlNet"]
+	path = ComfyUI-Advanced-ControlNet
+	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
+[submodule "ComfyUI-AutomaticCFG"]
+	path = ComfyUI-AutomaticCFG
+	url = https://github.com/Extraltodeus/ComfyUI-AutomaticCFG
+[submodule "ComfyUI-DepthAnythingV2"]
+	path = ComfyUI-DepthAnythingV2
+	url = https://github.com/kijai/ComfyUI-DepthAnythingV2
+[submodule "ComfyUI-Eagle-PNGInfo"]
+	path = ComfyUI-Eagle-PNGInfo
+	url = https://github.com/hylarucoder/ComfyUI-Eagle-PNGInfo
+[submodule "ComfyUI-Florence2"]
+	path = ComfyUI-Florence2
+	url = https://github.com/kijai/ComfyUI-Florence2
+[submodule "ComfyUI-Flowty-TripoSR"]
+	path = ComfyUI-Flowty-TripoSR
+	url = https://github.com/flowtyone/ComfyUI-Flowty-TripoSR
+[submodule "ComfyUI-GGUF"]
+	path = ComfyUI-GGUF
+	url = https://github.com/city96/ComfyUI-GGUF
+[submodule "ComfyUI-Impact-Pack"]
+	path = ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack
+[submodule "ComfyUI-Manager"]
+	path = ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager
+[submodule "ComfyUI-mxToolkit"]
+	path = ComfyUI-mxToolkit
+	url = https://github.com/Smirnov75/ComfyUI-mxToolkit
+[submodule "comfyui-popup_preview"]
+	path = comfyui-popup_preview
+	url = https://github.com/NimaNzrii/comfyui-popup_preview
+[submodule "ComfyUI-QualityOfLifeSuit_Omar92"]
+	path = ComfyUI-QualityOfLifeSuit_Omar92
+	url = https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92
+[submodule "ComfyUI-SAM2"]
+	path = ComfyUI-SAM2
+	url = https://github.com/neverbiasu/ComfyUI-SAM2
+[submodule "comfyui-tensorops"]
+	path = comfyui-tensorops
+	url = https://github.com/un-seen/comfyui-tensorops
+[submodule "ComfyUI-Text_Image-Composite"]
+	path = ComfyUI-Text_Image-Composite
+	url = https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite
+[submodule "Derfuu_ComfyUI_ModdedNodes"]
+	path = Derfuu_ComfyUI_ModdedNodes
+	url = https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes
+[submodule "DTAIComfyImageSubmit"]
+	path = DTAIComfyImageSubmit
+	url = https://github.com/yolanother/DTAIComfyImageSubmit
+[submodule "DTAIComfyLoaders"]
+	path = DTAIComfyLoaders
+	url = https://github.com/yolanother/DTAIComfyLoaders
+[submodule "DTAIComfyQRCodes"]
+	path = DTAIComfyQRCodes
+	url = https://github.com/yolanother/DTAIComfyQRCodes
+[submodule "DTAIComfyVariables"]
+	path = DTAIComfyVariables
+	url = https://github.com/yolanother/DTAIComfyVariables
+[submodule "efficiency-nodes-comfyui"]
+	path = efficiency-nodes-comfyui
+	url = https://github.com/jags111/efficiency-nodes-comfyui
+[submodule "rembg-comfyui-node"]
+	path = rembg-comfyui-node
+	url = https://github.com/Jcd1230/rembg-comfyui-node
+[submodule "rembg-comfyui-node-better"]
+	path = rembg-comfyui-node-better
+	url = https://github.com/Loewen-Hob/rembg-comfyui-node-better
+[submodule "rgthree-comfy"]
+	path = rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy
+[submodule "was-node-suite-comfyui"]
+	path = was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui
+[submodule "Upgraded-Depth-Anything-V2"]
+        path = Upgraded-Depth-Anything-V2
+        url = https://github.com/MackinationsAi/Upgraded-Depth-Anything-V2.git
+[submodule "ComfyUI-Crystools"]
+	path = ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools
+[submodule "ComfyUI-Custom-Scripts"]
+	path = ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+[submodule "ComfyUI-Marigold"]
+	path = ComfyUI-Marigold
+	url = https://github.com/kijai/ComfyUI-Marigold
+[submodule "ComfyUI-WD14-Tagger"]
+        path = ComfyUI-WD14-Tagger
+        url = https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+[submodule "comfy-image-saver"]
+        path = comfy-image-saver
+        url = https://github.com/giriss/comfy-image-saver
+[submodule "comfyui-art-venture"]
+	path = comfyui-art-venture
+	url = https://github.com/sipherxyz/comfyui-art-venture
+[submodule "ControlAltAI-Nodes"]
+	path = ControlAltAI-Nodes
+	url = https://github.com/gseth/ControlAltAI-Nodes
+[submodule "ComfyUI-Easy-Use"]
+	path = ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use
+[submodule "ComfyUI_UltimateSDUpscale"]
+	path = ComfyUI_UltimateSDUpscale
+	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+[submodule "ComfyUI-KJNodes"]
+	path = ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes
+[submodule "ComfyUI_bnb_nf4_fp4_Loaders"]
+	path = ComfyUI_bnb_nf4_fp4_Loaders
+	url = https://github.com/silveroxides/ComfyUI_bnb_nf4_fp4_Loaders
+[submodule "ComfyUI-Save16bitPng"]
+	path = ComfyUI-Save16bitPng
+	url = https://github.com/yolanother/ComfyUI-Save16bitPng
+[submodule "ComfyUI-Anyline"]
+	path = ComfyUI-Anyline
+	url = https://github.com/TheMistoAI/ComfyUI-Anyline
+[submodule "Comfy-WaveSpeed"]
+	path = Comfy-WaveSpeed
+	url = https://github.com/chengzeyi/Comfy-WaveSpeed
+[submodule "Comfyui_TTP_Toolset"]
+	path = Comfyui_TTP_Toolset
+	url = https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+[submodule "ComfyUI-Depth-Pro"]
+	path = ComfyUI-Depth-Pro
+	url = https://github.com/spacepxl/ComfyUI-Depth-Pro
+[submodule "ComfyUI-Detail-Daemon"]
+	path = ComfyUI-Detail-Daemon
+	url = https://github.com/Jonseed/ComfyUI-Detail-Daemon
+[submodule "comfyui-ollama"]
+	path = comfyui-ollama
+	url = https://github.com/stavsap/comfyui-ollama
+[submodule "comfyui-lf"]
+	path = comfyui-lf
+	url = https://github.com/lucafoscili/comfyui-lf
+[submodule "ComfyUI-Universal-Styler"]
+	path = ComfyUI-Universal-Styler
+	url = https://github.com/KoreTeknology/ComfyUI-Universal-Styler
