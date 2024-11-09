@@ -34,9 +34,6 @@
 [submodule "ComfyUI-Advanced-ControlNet"]
 	path = ComfyUI-Advanced-ControlNet
 	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
-[submodule "ComfyUI-Allor"]
-	path = ComfyUI-Allor
-	url = https://github.com/Nourepide/ComfyUI-Allor
 [submodule "ComfyUI-AutomaticCFG"]
 	path = ComfyUI-AutomaticCFG
 	url = https://github.com/Extraltodeus/ComfyUI-AutomaticCFG
