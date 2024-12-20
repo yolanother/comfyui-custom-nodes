@@ -116,8 +116,8 @@
         path = ComfyUI-Custom-Scripts
         url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 [submodule "ComfyUI-Marigold"]
-        path = ComfyUI-Marigold
-        url = https://github.com/kijai/ComfyUI-Marigold
+	path = ComfyUI-Marigold
+	url = https://github.com/kijai/ComfyUI-Marigold
 [submodule "ComfyUI-WD14-Tagger"]
         path = ComfyUI-WD14-Tagger
         url = https://github.com/pythongosssss/ComfyUI-WD14-Tagger
