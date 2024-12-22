@@ -142,3 +142,6 @@
 [submodule "ComfyUI_bnb_nf4_fp4_Loaders"]
 	path = ComfyUI_bnb_nf4_fp4_Loaders
 	url = https://github.com/silveroxides/ComfyUI_bnb_nf4_fp4_Loaders
+[submodule "ComfyUI-Save16bitPng"]
+	path = ComfyUI-Save16bitPng
+	url = https://github.com/yolanother/ComfyUI-Save16bitPng
