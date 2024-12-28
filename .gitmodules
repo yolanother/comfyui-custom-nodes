@@ -145,3 +145,6 @@
 [submodule "ComfyUI-Save16bitPng"]
 	path = ComfyUI-Save16bitPng
 	url = https://github.com/yolanother/ComfyUI-Save16bitPng
+[submodule "ComfyUI-Anyline"]
+	path = ComfyUI-Anyline
+	url = https://github.com/TheMistoAI/ComfyUI-Anyline
