@@ -148,3 +148,6 @@
 [submodule "ComfyUI-Anyline"]
 	path = ComfyUI-Anyline
 	url = https://github.com/TheMistoAI/ComfyUI-Anyline
+[submodule "Comfy-WaveSpeed"]
+	path = Comfy-WaveSpeed
+	url = https://github.com/chengzeyi/Comfy-WaveSpeed
