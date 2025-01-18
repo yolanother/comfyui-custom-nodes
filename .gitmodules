@@ -154,3 +154,6 @@
 [submodule "Comfyui_TTP_Toolset"]
 	path = Comfyui_TTP_Toolset
 	url = https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+[submodule "ComfyUI-Depth-Pro"]
+	path = ComfyUI-Depth-Pro
+	url = https://github.com/spacepxl/ComfyUI-Depth-Pro
