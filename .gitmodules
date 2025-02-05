@@ -169,3 +169,6 @@
 [submodule "ComfyUI-Universal-Styler"]
 	path = ComfyUI-Universal-Styler
 	url = https://github.com/KoreTeknology/ComfyUI-Universal-Styler
+[submodule "ComfyUI-ToSVG"]
+	path = ComfyUI-ToSVG
+	url = https://github.com/Yanick112/ComfyUI-ToSVG
