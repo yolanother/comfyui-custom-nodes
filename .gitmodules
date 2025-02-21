@@ -172,3 +172,6 @@
 [submodule "ComfyUI-ToSVG"]
 	path = ComfyUI-ToSVG
 	url = https://github.com/Yanick112/ComfyUI-ToSVG
+[submodule "ComfyUI-Janus-Pro"]
+	path = ComfyUI-Janus-Pro
+	url = https://github.com/CY-CHENYUE/ComfyUI-Janus-Pro
