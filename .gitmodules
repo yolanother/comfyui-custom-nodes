@@ -175,3 +175,6 @@
 [submodule "ComfyUI-Janus-Pro"]
 	path = ComfyUI-Janus-Pro
 	url = https://github.com/CY-CHENYUE/ComfyUI-Janus-Pro
+[submodule "x-flux-comfyui"]
+	path = x-flux-comfyui
+	url = https://github.com/XLabs-AI/x-flux-comfyui
