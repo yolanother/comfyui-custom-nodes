@@ -73,24 +73,15 @@
 [submodule "comfyui-tensorops"]
 	path = comfyui-tensorops
 	url = https://github.com/un-seen/comfyui-tensorops
-[submodule "ComfyUI-Text_Image-Composite"]
-	path = ComfyUI-Text_Image-Composite
-	url = https://github.com/ZHO-ZHO-ZHO/ComfyUI-Text_Image-Composite
 [submodule "Derfuu_ComfyUI_ModdedNodes"]
 	path = Derfuu_ComfyUI_ModdedNodes
 	url = https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes
-[submodule "DTAIComfyImageSubmit"]
-	path = DTAIComfyImageSubmit
-	url = https://github.com/yolanother/DTAIComfyImageSubmit
 [submodule "DTAIComfyLoaders"]
 	path = DTAIComfyLoaders
 	url = https://github.com/yolanother/DTAIComfyLoaders
 [submodule "DTAIComfyQRCodes"]
 	path = DTAIComfyQRCodes
 	url = https://github.com/yolanother/DTAIComfyQRCodes
-[submodule "DTAIComfyVariables"]
-	path = DTAIComfyVariables
-	url = https://github.com/yolanother/DTAIComfyVariables
 [submodule "efficiency-nodes-comfyui"]
 	path = efficiency-nodes-comfyui
 	url = https://github.com/jags111/efficiency-nodes-comfyui
